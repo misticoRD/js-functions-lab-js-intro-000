@@ -1,2 +1,4 @@
 // write your code below!
-let happyHolidays = () => "Happy holidays!";
+function happyHolidays(){
+  return "Happy holidays!";
+}
